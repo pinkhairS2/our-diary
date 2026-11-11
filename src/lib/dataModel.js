@@ -22,7 +22,6 @@ export const DEFAULT_CHECKLIST_FIELDS = [
   { key: 'outing', label: '외출/운동', icon: '🚶' },
   { key: 'cleaning', label: '청소', icon: '🧹' },
   { key: 'delivery', label: '배달 주문', icon: '🛵' },
-  { key: 'cute', label: '미키 귀여워하기', icon: '💚' },
 ]
 
 export function getChecklistFields(member) {
